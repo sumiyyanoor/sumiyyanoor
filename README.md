@@ -7,7 +7,7 @@
 ♡ Currently seeking a 2027/28 industrial placement in technology.
 
 ### ♡ Technical Skills
-- **Languages:** Python, Lua/Luau, HTML, CSS, JavaScript, SQL
+- **Languages:** Python, Lua, HTML, CSS, JavaScript, SQL
 - **Currently learning:** Java
 - **Tools:** GitHub, Roblox Studio, VS Code
 
